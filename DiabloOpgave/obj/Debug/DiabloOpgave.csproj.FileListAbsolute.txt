@@ -1,0 +1,6 @@
+C:\Users\Jesper Deleurand\source\repos\DiabloOpgave\DiabloOpgave\bin\Debug\DiabloOpgave.exe.config
+C:\Users\Jesper Deleurand\source\repos\DiabloOpgave\DiabloOpgave\bin\Debug\DiabloOpgave.exe
+C:\Users\Jesper Deleurand\source\repos\DiabloOpgave\DiabloOpgave\bin\Debug\DiabloOpgave.pdb
+C:\Users\Jesper Deleurand\source\repos\DiabloOpgave\DiabloOpgave\obj\Debug\DiabloOpgave.csprojAssemblyReference.cache
+C:\Users\Jesper Deleurand\source\repos\DiabloOpgave\DiabloOpgave\obj\Debug\DiabloOpgave.exe
+C:\Users\Jesper Deleurand\source\repos\DiabloOpgave\DiabloOpgave\obj\Debug\DiabloOpgave.pdb
